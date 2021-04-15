@@ -13,7 +13,8 @@ Collection of react components
   
   
   Example 1.
-  <Donut
+  
+        <Donut
         percent1 ={20}
         percent2 ={5}
         percent3 ={5}
@@ -23,7 +24,7 @@ Collection of react components
         percent7 ={5}
         percent8 ={5}
         percent9 ={5}
-
+        
         color1 = {'#75ba88'}
         color2 = {'#6b94b3'}
         color3 = {'#d6c967'}
@@ -42,8 +43,10 @@ Collection of react components
 
         legend = {'bottom'}
         />
+        
  Example 2.
-  <Donut
+        
+        <Donut
         percent1 ={25}
         percent2 ={15}
         percent3 ={34}
