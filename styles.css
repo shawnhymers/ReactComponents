@@ -1,0 +1,9 @@
+.horizontal-centered-children{
+  display: flex;
+      justify-content: center;
+      align-items: center;
+}
+.vertical-centered-children{
+  display: flex;
+   align-items: center;
+}
