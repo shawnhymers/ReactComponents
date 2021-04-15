@@ -60,5 +60,5 @@ Collection of react components
         title = {'My New Donut Chart}
         labels ={['Idea 1','idea 2', 'idea 3']}
         
-        legend = {'bottom'}
+        legend = {'right'}
         />
